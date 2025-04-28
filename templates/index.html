@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title> Florida Crew Tracker </title>
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+</head>
+
+<body>
+    <div id="container">
+    
+    <header class="site-header">
+        <h1>Florida Crew Tracker</h1>
+    </header>
+    
+    <div class="intro">
+        <div class="site-intro">
+            <h2>Introduction</h2>
+        </div>
+        
+        <p>
+            Welcome to the Florida Club Rowing workout tracker, featuring data for twelve rowers (six men and six women) from the University of Florida’s competitive club rowing team.
+             
+        </p>
+        
+        <p>
+            This tracker covers workouts recorded from January 13, 2025, to March 13, 2025. It captures the beginning of the spring training season and ends before spring break training because training increases to twice a day and attendance rates decrease, which skews the data.
+        </p>
+            
+        <p>
+            Scroll down to learn more information about the club and the sport. Click on a rower's name to view the specific workouts they completed during this period.
+        </p>
+    </div>
+
+    <div class="rower-list">
+        <ul>
+        {% for workout_num, first_name, last_name in rowers %}
+        <li class="rower-detail">
+            <a href="{{ url_for('detail', name=first_name|lower + '-' + last_name|lower) }}">{{ first_name }} {{ last_name }}</a>
+        </li>
+        {% endfor %}
+        </ul>
+    </div>
+
+
+    <div class="more-info">
+        <div class="site-more">
+            <h2>More information</h2>
+        </div>
+        <p>
+             During the spring semester, rowers train for a 2,000 meter race. It's like running a 5k, split in half and much harder than you could ever imagine. The men and women's team practice six days a week for two hours. There are four teams: men's varsity, men's novice, women's varisty and women's novice. There are five races throughout the semester. From Florida to Tennessee, Florida Club Rowing travels to various locations to compete against other division or club teams.
+        </p>
+
+        <p>
+            Florida Club Rowing is a student-run organization under the University of Florida's Department of Recreational Sports and was founded in 1984. The club competes against Division I, II, III, and other club teams in one of the most physically demanding sports.
+        </p>
+    </div>
+
+    <footer>
+        <p>This is a final project for JOU4364: Advanced Web Apps with Professor McAdams created by Kai Johnsen. View the GitHub repo for this project here.</p>
+    </footer>
+
+    </div>
+
+    </body>
+</html>

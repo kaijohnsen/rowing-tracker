@@ -1,0 +1,362 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', 'Roboto', 'Open Sans', sans-serif;
+    margin: 0;
+    background: #f1f7ff;
+    color: #1a1a1a;
+    line-height: 1.6;
+}
+
+#container {
+    max-width: 1000px;
+    margin: 3rem auto;
+    padding: 2.5rem;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+}
+
+.site-header {
+    text-align: center;
+    margin-bottom: 2rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #e2e8f0;
+}
+
+h1, h2 {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+}
+
+h1 {
+    font-size: 2.6rem;
+    font-weight: 800;
+    color: #0021a5; 
+    border-bottom: 4px solid #fa4616; 
+    display: inline-block;
+    padding-bottom: 0.4rem;
+}
+
+h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #0021a5;
+    border-bottom: 4px solid #fa4616;
+    margin-top: 2rem;
+    display: inline-block;
+}
+
+p, li {
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+    color: #333;
+}
+
+.intro {
+    background-color: #f9fbff;
+    padding: 1rem;
+    border-radius: 8px;
+    margin-bottom: 3rem;
+    border-left: 4px solid #0021a5;
+}
+
+.intro p:last-child {
+    margin-bottom: 2rem;
+}
+
+.more-info {
+    background-color: #f9fbff;
+    padding: 1rem;
+    border-radius: 8px;
+    margin-bottom: 3rem;
+    border-left: 4px solid #0021a5;
+}
+
+.more-info p:last-child {
+    margin-bottom: 2rem;
+}
+
+.rower-list {
+    margin: 2rem 0;
+}
+
+.rower-list ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.2rem;
+    padding: 0;
+    justify-content: center;
+    list-style: none;
+    margin: 0;
+}
+
+.rower-detail {
+    background: #e8f0fe;
+    border-radius: 8px;
+    padding: 1rem 1.2rem;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    transition: transform 0.2s ease, background-color 0.2s ease;
+    min-width: 160px;
+    text-align: center;
+}
+
+.rower-detail:hover {
+    transform: translateY(-4px);
+    background-color: #d0e1ff;
+}
+
+.rower-detail a {
+    display: block;
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: #0021a5;
+    text-decoration: none;
+    border-bottom: none;
+}
+
+.rower-detail a:hover {
+    color: #fa4616;
+    border-bottom: none;
+}
+
+img.right {
+    float: right;
+    margin: 1rem 0 1rem 2rem;
+    max-width: 35%;
+    border-radius: 10px;
+    border: 2px solid #e2e8f0;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+img.right:hover {
+    transform: scale(1.03);
+}
+
+a {
+    color: #0021a5;
+    text-decoration: none;
+    font-weight: 500;
+    border-bottom: 1px solid transparent;
+    transition: all 0.3s ease;
+}
+
+a:hover {
+    color: #fa4616;
+    border-bottom: 1px solid #fa4616;
+}
+
+.links a {
+    display: inline-block;
+    margin-top: 0.4rem;
+    padding: 0.5rem 1rem;
+    background-color: #0021a5;
+    color: #fff;
+    border-radius: 6px;
+    transition: background-color 0.3s ease;
+    border-bottom: none;
+}
+
+.links a:hover {
+    background-color: #fa4616;
+    color: white;
+    border-bottom: none;
+}
+
+ul {
+    padding-left: 1.25rem;
+}
+
+ul li {
+    margin-bottom: 0.8rem;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 2rem;
+    font-size: 0.95rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+thead {
+    background-color: #0021a5;
+    color: #ffffff;
+}
+
+th, td {
+    padding: 0.9rem;
+    text-align: center;
+    border: 1px solid #e2e8f0;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f9fbff;
+}
+
+tbody tr:hover {
+    background-color: #fff5ed;
+}
+
+footer {
+    margin-top: 2.5rem;
+    padding: 1.2rem;
+    background-color: #e8f0fe; 
+    color: #333;
+    text-align: center;
+    font-size: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    border-top: 3px solid #0021a5;
+}
+
+footer p {
+    margin: 0;
+}
+
+footer a {
+    color: #fa4616;
+    font-weight: 600;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+    #container {
+        margin: 1.5rem;
+        padding: 1.5rem;
+    }
+
+    .rower-list ul {
+        gap: 0.8rem;
+    }
+
+    .rower-detail {
+        min-width: 140px;
+    }
+
+    img.right {
+        float: none;
+        display: block;
+        margin: 1rem auto;
+        max-width: 80%;
+    }
+
+    h1 {
+        font-size: 2rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    table, th, td {
+        font-size: 0.85rem;
+    }
+}
+
+@media (max-width: 480px) {
+    body {
+        background: #fff;
+    }
+    
+    #container {
+        margin: 0;
+        padding: 1rem;
+        box-shadow: none;
+        border-radius: 0;
+    }
+    
+    h1 {
+        font-size: 1.6rem;
+        padding-bottom: 0.3rem;
+    }
+    
+    h2 {
+        font-size: 1.3rem;
+        margin-top: 1.5rem;
+        margin-bottom: 1rem;
+    }
+    
+    p, li {
+        font-size: 1rem;
+    }
+    
+    .intro {
+        padding: 1rem;
+        margin-bottom: 1.5rem;
+    }
+    
+    .rower-list {
+        margin: 1.5rem 0;
+    }
+    
+    .rower-list ul {
+        gap: 0.6rem;
+    }
+    
+    .rower-detail {
+        min-width: 100%;
+        padding: 0.8rem 1rem;
+    }
+    
+    .rower-detail a {
+        font-size: 1rem;
+    }
+    
+    table {
+        display: block;
+        overflow-x: auto;
+        white-space: nowrap;
+        font-size: 0.8rem;
+        margin-top: 1.5rem;
+    }
+    
+    th, td {
+        padding: 0.6rem;
+    }
+    
+    .links a {
+        padding: 0.4rem 0.8rem;
+        font-size: 0.9rem;
+        width: 100%;
+        text-align: center;
+        margin-bottom: 0.5rem;
+    }
+    
+    footer {
+        margin-top: 1.5rem;
+        padding: 1rem;
+        font-size: 0.9rem;
+    }
+}
+
+@media (max-width: 320px) {
+    h1 {
+        font-size: 1.4rem;
+    }
+    
+    h2 {
+        font-size: 1.1rem;
+    }
+    
+    p, li {
+        font-size: 0.95rem;
+    }
+    
+    th, td {
+        padding: 0.5rem;
+        font-size: 0.75rem;
+    }
+}
+

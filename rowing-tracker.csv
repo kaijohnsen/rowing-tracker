@@ -1,0 +1,401 @@
+Workout_number,First_name,Last_name,Date,Workout,Rate,Land_or_water,Meters,Splits,Calories,Heart_rate,Team,Level,Pronouns,Image,Photo_credits,,,FLCR_website
+1,Thomas,Spelmans,1/13/2025,30:02:00,17,Land,"7,341",02:02.7,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+2,Thomas,Spelmans,1/14/2025,30' erg test,22,Land,"8,703",01:43.4,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+3,Thomas ,Spelmans,1/15/2025,15'; 5x4',16-18; 18-24,Water,"5,416",2:34,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+4,Thomas,Spelmans,1/16/2025,4x10',16-18,Water,"8,626",2:18,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+5,Thomas,Spelmans,1/17/2025,"2x15', :30s on, :30s off",30,Land,"4,788",01:31.0,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+6,Thomas,Spelmans,1/18/2025,3x10',26-28,Water,"11,888",2:09,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+7,Thomas,Spelmans,1/20/2025,4x15',16-22,Water,"9,458",2:28,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+8,Thomas,Spelmans,1/21/2025,5x10',18,Land,"13,908",01:47.8,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+9,Thomas,Spelmans,1/22/2025,3x12',26,Land,"10,501",01:42.8,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+10,Thomas,Spelmans,1/23/2025,3x20',16,Land,"14,659",02:02.7,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+11,Thomas,Spelmans,1/25/2025,3x1500m,32,Land,"4,500",01:36.4,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+12,Thomas,Spelmans,1/29/2025,2x20',19,Land,"10,130",01:58.9,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+13,Thomas,Spelmans,1/30/2025,50',18,Land,"12,026",02:04.7,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+14,Thomas,Spelmans,1/31/2025,2x20',16-22,Water,"6,369",2:54,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+15,Thomas,Spelmans,1/31/2025,20',19,Land,"5,232",01:55.0,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+16,Thomas,Spelmans,2/3/2025,3x10',20-22,Water,"6,030",2:39,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+17,Thomas,Spelmans,2/4/2025,60',18-24,Water,"12,600",2:23,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+18,Thomas,Spelmans,2/5/2025,3x4000m,22-26,Water,"12,874",2:07,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+19,Thomas,Spelmans,2/6/2025,4x20',16-18,Water,"11,246",2:11,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+20,Thomas,Spelmans,2/7/2025,5x2000m,18-24,Water,"9,022",2:11,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+21,Thomas,Spelmans,2/8/2025,4x1000m,32,Land,"4,000",01:36.6,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+22,Thomas,Spelmans,2/10/2025,3x10',18-24,Water,"9,449",2:23,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+23,Thomas,Spelmans,2/11/2025,2x20',16-18,Water,"11,315",2:17,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+24,Thomas,Spelmans,2/12/2025,15x4',26-30,Water,"12,550",2:11,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+25,Thomas,Spelmans,2/13/2025,30:01:00,18,Land,"8,020",01:52.3,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+26,Thomas,Spelmans,2/14/2025,20',22,Land,"5,775",01:43.8,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+27,Thomas,Spelmans,2/15/2025,3x1500m,30-32,Water,"9,140",2:29,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+28,Thomas,Spelmans,2/17/2025,2x30',18-24,Water,"11,787",2:21,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+29,Thomas,Spelmans,2/18/2025,20',18,Water,"5,501",2:52,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+30,Thomas,Spelmans,2/18/2025,20',20,Land,"5,549",01:48.1,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+31,Thomas,Spelmans,2/19/2025,"25', 3x500m",22-32,Water,"11,328",2:20,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+32,Thomas,Spelmans,2/20/2025,4x20',16-18,Water,"12,720",2:27,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+33,Thomas,Spelmans,2/21/2025,2x15',18-24,Water,"7,835",2:25,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+34,Thomas,Spelmans,2/22/2025,4x1500m,28-32,Water,"13,478",2:22,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+35,Thomas,Spelmans,2/24/2025,3x19',22,Land,"16,134",01:45.9,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+36,Thomas,Spelmans,2/25/2025,3x20',18-22,Water,"15,366",2:08,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+37,Thomas,Spelmans,2/26/2025,3x10',24-28,Water,"12,384",2:29,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+38,Thomas,Spelmans,2/27/2025,6x10',16-18,Water,"11,120",2:17,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+39,Thomas,Spelmans,3/1/2025,3x1500m,29,Land,"4,500",01:39.1,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+40,Thomas,Spelmans,3/2/2025,"3x(15x, :30s on, :30s off)",30,Land,"7,410",01:31.0,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+41,Thomas,Spelmans,3/3/2025,2x25',16-20,Water,"12,750",2:15,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+42,Thomas,Spelmans,3/4/2025,3x20',16-18,Water,"15,379",2:17,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+43,Thomas,Spelmans,3/5/2025,2x15',22-26,Water,"8,849",2:32,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+44,Thomas,Spelmans,3/6/2025,60',16-18,Water,"14,445",2:08,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+45,Thomas,Spelmans,3/7/2025,2x10',21,Land,"5,582",01:47.4,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+46,Thomas,Spelmans,3/8/2025,2x2000m,32-34,Water,"14,188",2:49,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+47,Thomas,Spelmans,3/10/2025,17',22,Land,"4,118",01:46.5,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+48,Thomas,Spelmans,3/10/2025,2x20',19,Land,"10,737",01:51.7,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+49,Thomas,Spelmans,3/11/2025,3x5000m,18,Land,"15,000",01:55.3,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+50,Thomas,Spelmans,3/13/2025,2x15',18-20,Water,"10,926",2:26,,,men's,varsity,He,ts.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+51,Kai,Johnsen,1/14/2025,30' erg test,22,Land,"6,402",02:20.5,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+52,Kai,Johnsen,1/15/2025,15'; 5x4',18-24,Water,"9,234",3:14,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+53,Kai,Johnsen,1/16/2025,4x20',17,Land,"8,077",02:28.5,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+54,Kai,Johnsen,1/17/2025,"2x15', :30s on, :30s off",16-26,Water,"9,855",3:12,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+55,Kai ,Johnsen,1/18/2025,3x10',26-28,Water,"11,044",2:50,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+56,Kai ,Johnsen,1/20/2025,4x15',16-22,Water,"13,089",3:00,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+57,Kai,Johnsen,1/21/2025,4x10',17,Land,"7,942",02:31.0,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+58,Kai,Johnsen,1/23/2025,2x20',18-22,Land,None,None,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+59,Kai,Johnsen,1/25/2025,2x1500m,30,Land,None,None,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+60,Kai,Johnsen,1/27/2025,30',None,Land,None,None,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+61,Kai,Johnsen,1/28/2025,3x19',16-22,Water,"11,928",3:07,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+62,Kai,Johnsen,1/29/2025,2x15'; 5x500m,20-30,Water,"6,848",3:18,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+63,Kai,Johnsen,1/29/2025,15',20-24,Land,None,None,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+64,Kai,Johnsen,1/30/2025,35',None,Land,None,None,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+65,Kai,Johnsen,1/31/2025,3x20',16-22,Water,"10,542",3:25,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+66,Kai,Johnsen,2/1/2025,4x1000m,28,Water,"10,240",3:26,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+67,Kai,Johnsen,2/3/2025,2x10'; 8x250m,18-34,Land,None,None,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+68,Kai,Johnsen,2/4/2025,2x10',16-18,Land,None,None,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+69,Kai,Johnsen,2/5/2025,2x4000m,20-22,Water,"12,174",3:04,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+70,Kai,Johnsen,2/6/2025,4x15',14-16,Water,"11,415",3:04,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+71,Kai,Johnsen,2/7/2025,3x2000m,16-22,Water,"9,784",3:21,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+72,Kai,Johnsen,2/8/2025,4x1000m,30,Land,None,None,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+73,Kai,Johnsen,2/10/2025,3x10',18-20,Land,None,None,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+74,Kai,Johnsen,2/11/2025,20',16-18,Land,None,None,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+75,Kai,Johnsen,2/12/2025,10x4',24-28,Water,"12,218",3:23,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+76,Kai,Johnsen,2/13/2025,30',14-16,Water,"9,500",3:28,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+77,Kai,Johnsen,2/14/2025,20',22,Land,None,None,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+78,Kai,Johnsen,2/15/2025,3x1500m,28-30,Water,"11,306",3:54,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+79,Kai,Johnsen,2/17/2025,20' ,16-22,Land,None,None,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+80,Kai,Johnsen,2/18/2025,2x20',16-20,Water,"13,507",3:11,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+81,Kai,Johnsen,2/19/2025,25'; 3x500m,22-30,Land,None,None,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+82,Kai,Johnsen,2/20/2025,3x20',14-18,Water,"12,608",3:14,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+83,Kai,Johnsen,2/21/2025,Steady state with sprints,20-30,Water,"8,610",3:39,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+84,Kai,Johnsen,2/22/2025,4x1500m,26-30,Water,"12,630",3:38,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+85,Kai,Johnsen,2/24/2025,2x19'; 10',16-24,Water,"12,836",3:10,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+86,Kai,Johnsen,2/25/2025,2x20'; 15',16-20,Water,"12,522",3:05,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+87,Kai,Johnsen,2/26/2025,3x10',22-26,Water,"9,401",3:12,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+88,Kai,Johnsen,2/27/2025,6x10',14-16,Water,"12,144",3:06,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+89,Kai,Johnsen,3/1/2025,3x1500m,26-30,Water,"11,333",3:32,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+90,Kai,Johnsen,3/3/2025,2x25',14-18,Water,"11,397",3:11,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+91,Kai,Johnsen,3/4/2025,3x20'; 7' ,14-18,Water,"13,136",3:03,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+92,Kai,Johnsen,3/11/2025,2x20'; 5',14-18,Water,"10,005",3:20,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+93,Kai,Johnsen,3/12/2025,2x15'; 10'; 5',22-28,Water,"11,864",2:55,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+94,Kai,Johnsen,3/13/2025,2x15',16-18,Water,"9,380",3:29,,,women's,varsity,She,kj.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+95,Sari ,Simon,1/13/2025,28',None,Land,None,None,232,131,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+96,Sari,Simon,1/14/2025,30' erg test,None,Land,None,None,572,168,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+97,Sari,Simon,1/15/2025,15'; 5x4',16-24,Water,"10,663",3:52,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+98,Sari,Simon,1/16/2025,4x20',None,Land,None,None,509,148,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+99,Sari,Simon,1/17/2025,"2x15', :30s on, :30s off",16-26,Water,"10,825",3:32,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+100,Sari,Simon,1/18/2025,3x10',26-28,Water,"11,739",3:11,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+101,Sari ,Simon,1/20/2025,28',None,Land,None,None,247,144,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+102,Sari,Simon,1/21/2025,5x10',16-18,Land,None,None,663,132,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+103,Sari,Simon,1/22/2025,61',None,Land,None,None,581,157,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+104,Sari,Simon,1/23/2025,2x20',18-22,Land,None,None,461,150,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+105,Sari,Simon,1/27/2025,30' ,None,Land,None,None,440,155,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+106,Sari,Simon,1/28/2025,3x19',16-22,Water,"12,284",3:12,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+107,Sari,Simon,1/29/2025,2x15'; 5x500,20-30,Water,"7,500",3:37,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+108,Sari,Simon,1/30/2025,50',16,Land,None,None,529,128,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+109,Sari,Simon,1/31/2025,3x20',16-22,Water,"11,389",3:37,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+110,Sari,Simon,2/1/2025,4x1000m,28,Water,"9,734",3:18,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+111,Sari,Simon,2/3/2025,24',16,Water,"2,004",6:01,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+112,Sari ,Simon,2/3/2025,3x10',20-34,Land,None,None,638,153,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+113,Sari,Simon,2/4/2025,2x10',16-18,Land,None,None,507,129,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+114,Sari,Simon,2/5/2025,2x4000m,20-22,Water,"12,580",2:57,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+115,Sari,Simon,2/6/2025,4x15',16-18,Water,"11,428",3:27,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+116,Sari,Simon,2/7/2025,3x2000m,16-22,Water,"10,099",3:17,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+117,Sari,Simon,2/8/2025,4x1000m,30,Land,None,None,556,130,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+118,Sari,Simon,2/10/2025,3x10',18-20,Land,None,None,369,136,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+119,Sari,Simon,2/11/2025,2x20',16-18,Land,None,None,405,141,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+120,Sari,Simon,2/12/2025,10x4',24-28,Water,"11,948",3:16,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+121,Sari,Simon,2/13/2025,30',14-16,Water,"9,397",3:26,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+122,Sari,Simon,2/14/2025,60',None,Water,"8,466",3:39,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+123,Sari,Simon,2/15/2025,3x1500m,28-32,Water,"10,547",3:18,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+124,Sari,Simon,2/17/2025,60',16-22,Water,"11,150",2:50,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+125,Sari,Simon,2/18/2025,2x20',16-20,Water,"13,241",3:04,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+126,Sari,Simon,2/19/2025,25'; 3x500m,22-30,Land,None,None,529,147,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+127,Sari,Simon,2/20/2025,4x20',14-16,Water,"12,665",3:02,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+128,Sari,Simon,2/21/2025,2x15',None,Water,"8,387",3:32,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+129,Sari,Simon,2/22/2025,4x1500m,26-30,Water,"13,528",3:10,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+130,Sari,Simon,2/24/2025,3x19',20-26,Land,"13,513",02:06.5,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+131,Sari,Simon,2/25/2025,3x20',16-20,Water,"12,863",3:09,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+132,Sari,Simon,2/25/2025,2k erg test,28,Land,2000m,01:48.4,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+133,Sari,Simon,2/26/2025,3x10',22-26,Water,"9,908",3:18,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+134,Sari,Simon,2/27/2025,6x10',16-18,Land,"13,294",02:15.3,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+135,Sari,Simon,2/28/2025,2000m; 500m,30,Water,"7,941",3:55,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+136,Sari,Simon,3/1/2025,3x1500m,26-30,Water,"8,596",3:16,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+137,Sari,Simon,3/3/2025,2x25',14-18,Water,"11,749",3:26,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+138,Sari,Simon,3/4/2025,3x20',14-16,Water,"12,008",2:59,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+139,Sari,Simon,3/5/2025,2x1000m; 500m,None,Water,"9,061",4:01,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+140,Sari,Simon,3/6/2025,60',14-18,Water,"11,747",2:54,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+141,Sari,Simon,3/7/2025,2x10',20-22,Land,None,None,299,131,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+142,Sari,Simon,3/8/2025,2x2000m,None,Water,"12,121",3:17,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+143,Sari,Simon,3/10/2025,2x20',16-22,Land,None,None,574,160,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+144,Sari,Simon,3/11/2025,3x20',16-18,Water,"9,382",3:30,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+145,Sari,Simon,3/12/2025,3x15',22-28,Water,"12,411",2:59,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+146,Sari,Simon,3/13/2025,2x15',16-18,Water,"10,011",3:17,,,women's,varsity,She,ss.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+147,Ashley,Figueroa,1/13/2025,5x10',16-18,Land,None,None,689,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+148,Ashley,Figueroa,1/22/2025,38',21,Land,None,None,327,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+149,Ashley,Figueroa,1/23/2025,2x20',18-22,Land,None,None,457,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+150,Ashley,Figueroa,1/25/2025,3x1500m; 5x3',28-30,Land,None,None,665,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+151,Ashley,Figueroa,1/27/2025,30',18-20,Land,None,None,455,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+152,Ashley,Figueroa,1/28/2025,3x19',16-22,Water,"11,725",2:55,,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+153,Ashley,Figueroa,1/29/2025,2x15'; 5x500m,20-30,Water,"6,231",3:02,,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+154,Ashley,Figueroa,1/29/2025,15',20-24,Land,None,None,163,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+155,Ashley,Figueroa,1/30/2025,35',16-18,Land,None,None,350,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+156,Ashley,Figueroa,1/31/2025,3x20',16-22,Water,"8,041",3:10,,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+157,Ashley,Figueroa,2/1/2025,4x1000m; 500m,28,Water,"9,064",3:22,,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+158,Ashley,Figueroa,2/3/2025,20',16,Water,"1,709",5:25,,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+159,Ashley,Figueroa,2/4/2025,2x10',16-18,Land,None,None,261,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+160,Ashley ,Figueroa,2/5/2025,2x4000m,20-22,Water,"11,227",2:46,,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+161,Ashley,Figueroa,2/6/2025,4x15',16-18,Land,None,None,,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+162,Ashley,Figueroa,2/7/2025,3x2000m,16-22,Water,"9,643",3:17,,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+163,Ashley,Figueroa,2/8/2025,4x1000m,30,Land,None,None,501,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+164,Ashley,Figueroa,2/10/2025,3x10',18-20,Land,None,None,448,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+165,Ashley,Figueroa,2/11/2025,2x20',16-18,Land,None,None,463,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+166,Ashley,Figueroa,2/12/2025,10x4',24-28,Water,"11,532",3:11,,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+167,Ashley,Figueroa,2/13/2025,30',14-16,Water,"9,207",3:20,,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+168,Ashley,Figueroa,2/14/2025,20',22,Land,None,None,306,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+169,Ashley,Figueroa,2/15/2025,3x1500m,28-30,Water,"10,450",3:15,,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+170,Ashley,Figueroa,2/17/2025,20',18-20,Land,None,None,196,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+171,Ashley,Figueroa,2/18/2025,2x20',16-20,Water,"13,565",3:08,,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+172,Ashley,Figueroa,2/19/2025,25'; 3x500,22-30,Land,None,None,484,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+173,Ashley,Figueroa,2/20/2025,3x20',14-18,Water,"12,494",2:53,,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+174,Ashley,Figueroa,2/21/2025,2x15',None,Water,"8,558",3:28,,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+175,Ashley,Figueroa,2/22/2025,4x1500m,26-30,Water,"13,405",3:14,,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+176,Ashley,Figueroa,2/24/2025,2x19'; 10',16-24,Water,"12,630",3:02,,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+177,Ashley,Figueroa,2/25/2025,2x20'; 15',16-20,Water,"12,440",3:06,,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+178,Ashley,Figueroa,2/25/2025,4x350m,30-32,Land,None,None,105,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+179,Ashley,Figueroa,2/26/2025,3x10',22-26,Water,"9,343",3:04,,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+180,Ashley,Figueroa,2/28/2025,2000m; 500m,30,Water,"5,001",4:10,,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+181,Ashley,Figueroa,3/1/2025,3x1500m,26-30,Water,"10,982",3:24,,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+182,Ashley,Figueroa,3/3/2025,2x25',14-18,Water,"11,295",3:07,,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+183,Ashley ,Figueroa,3/4/2025,3x20',14-16,Water,"13,240",3:03,,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+184,Ashley,Figueroa,3/6/2025,60',14-18,Water,"11,004",2:57,,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+185,Ashley,Figueroa,3/7/2025,2x10',20-22,Land,"4,038",None,253,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+186,Ashley,Figueroa,3/8/2025,2000m,None,Water,"3,266",3:34,220,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+187,Ashley,Figueroa,3/10/2025,20',16-22,Land,None,None,341,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+188,Ashley,Figueroa,3/11/2025,3x20',16-18,Water,"9,474",3:38,,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+189,Ashley,Figueroa,3/12/2025,3x15',22-28,Water,"11,806",2:42,,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+190,Ashley,Figueroa,3/12/2025,30',20,Land,None,None,277,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+191,Ashley,Figueroa,3/13/2025,2x15',16-18,Water,"9,563",3:07,,,women's,varsity,She,af.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+192,Brooke,Aven,1/14/2025,15',14-16,Land,None,None,61,,women's,novice,She,ba.jpg,https://www.linkedin.com/in/brookelyn-aven-393881290/,,,https://www.floridaclubrowing.com/
+193,Brooke,Aven,1/15/2025,58',None,Water,"9,222",3:10,272,,women's,novice,She,ba.jpg,https://www.linkedin.com/in/brookelyn-aven-393881290/,,,https://www.floridaclubrowing.com/
+194,Brooke,Aven,1/16/2025,30',None,Land,None,None,345,150,women's,novice,She,ba.jpg,https://www.linkedin.com/in/brookelyn-aven-393881290/,,,https://www.floridaclubrowing.com/
+195,Brooke,Aven,1/18/2025,60',None,Water,"6,286",3:53,176,,women's,novice,She,ba.jpg,https://www.linkedin.com/in/brookelyn-aven-393881290/,,,https://www.floridaclubrowing.com/
+196,Brooke,Aven,1/23/2025,40',None,Land,"2,382",None,386,154,women's,novice,She,ba.jpg,https://www.linkedin.com/in/brookelyn-aven-393881290/,,,https://www.floridaclubrowing.com/
+197,Brooke,Aven,1/27/2025,30',None,Land,None,None,298,160,women's,novice,She,ba.jpg,https://www.linkedin.com/in/brookelyn-aven-393881290/,,,https://www.floridaclubrowing.com/
+198,Brooke,Aven,1/28/2025,30',None,Water,"1,809",8:25,113,,women's,novice,She,ba.jpg,https://www.linkedin.com/in/brookelyn-aven-393881290/,,,https://www.floridaclubrowing.com/
+199,Brooke,Aven,1/29/2025,37',None,Water,"2,565",7:21,191,,women's,novice,She,ba.jpg,https://www.linkedin.com/in/brookelyn-aven-393881290/,,,https://www.floridaclubrowing.com/
+200,Brooke,Aven,1/30/2025,2x12'; 6',18-28,Land,None,None,268,107,women's,novice,She,ba.jpg,https://www.linkedin.com/in/brookelyn-aven-393881290/,,,https://www.floridaclubrowing.com/
+201,Brooke,Aven,2/3/2025,79',None,Water,"6,471",6:09,275,,women's,novice,She,ba.jpg,https://www.linkedin.com/in/brookelyn-aven-393881290/,,,https://www.floridaclubrowing.com/
+202,Brooke,Aven,2/5/2025,34',None,Water,"3,354",5:07,117,,women's,novice,She,ba.jpg,https://www.linkedin.com/in/brookelyn-aven-393881290/,,,https://www.floridaclubrowing.com/
+203,Brooke,Aven,2/6/2025,66',None,Water,"6,718",4:57,155,,women's,novice,She,ba.jpg,https://www.linkedin.com/in/brookelyn-aven-393881290/,,,https://www.floridaclubrowing.com/
+204,Brooke,Aven,2/8/2025,16',None,Water,"1,213",6:54,87,,women's,novice,She,ba.jpg,https://www.linkedin.com/in/brookelyn-aven-393881290/,,,https://www.floridaclubrowing.com/
+205,Brooke,Aven,2/10/2025,30',None,Land,None,None,202,127,women's,novice,She,ba.jpg,https://www.linkedin.com/in/brookelyn-aven-393881290/,,,https://www.floridaclubrowing.com/
+206,Brooke,Aven,2/11/2025,"5 x (60s on, 60s off) ",None,Land,None,None,186,143,women's,novice,She,ba.jpg,https://www.linkedin.com/in/brookelyn-aven-393881290/,,,https://www.floridaclubrowing.com/
+207,Brooke,Aven,2/11/2025,17',None,Land,None,None,169,162,women's,novice,She,ba.jpg,https://www.linkedin.com/in/brookelyn-aven-393881290/,,,https://www.floridaclubrowing.com/
+208,Brooke,Aven,2/15/2025,70',None,Water,"9,281",3:49,300,,women's,novice,She,ba.jpg,https://www.linkedin.com/in/brookelyn-aven-393881290/,,,https://www.floridaclubrowing.com/
+209,Brooke,Aven,2/19/2025,29',None,Land,None,None,80,89,women's,novice,She,ba.jpg,https://www.linkedin.com/in/brookelyn-aven-393881290/,,,https://www.floridaclubrowing.com/
+210,Brooke,Aven,2/20/2025,65',None,Water,"9,739",3:21,155,,women's,novice,She,ba.jpg,https://www.linkedin.com/in/brookelyn-aven-393881290/,,,https://www.floridaclubrowing.com/
+211,Brooke,Aven,2/22/2025,4x1500m,26-30,Water,"13,104",3:34,,,women's,novice,She,ba.jpg,https://www.linkedin.com/in/brookelyn-aven-393881290/,,,https://www.floridaclubrowing.com/
+212,Brooke,Aven,2/26/2025,43',None,Water,"5,066",4:14,144,,women's,novice,She,ba.jpg,https://www.linkedin.com/in/brookelyn-aven-393881290/,,,https://www.floridaclubrowing.com/
+213,Brooke,Aven,2/27/2025,11',None,Water,"1,752",3:15,42,,women's,novice,She,ba.jpg,https://www.linkedin.com/in/brookelyn-aven-393881290/,,,https://www.floridaclubrowing.com/
+214,Brooke,Aven,3/1/2025,65',None,Water,"7,320",4:30,178,,women's,novice,She,ba.jpg,https://www.linkedin.com/in/brookelyn-aven-393881290/,,,https://www.floridaclubrowing.com/
+215,Brooke,Aven,3/3/2025,59',None,Water,"9,002",3:18,213,,women's,novice,She,ba.jpg,https://www.linkedin.com/in/brookelyn-aven-393881290/,,,https://www.floridaclubrowing.com/
+216,Brooke,Aven,3/4/2025,31',None,Water,"7,813",3:11,218,,women's,novice,She,ba.jpg,https://www.linkedin.com/in/brookelyn-aven-393881290/,,,https://www.floridaclubrowing.com/
+217,Brooke,Aven,3/6/2025,51',None,Water,"7,488",3:26,211,,women's,novice,She,ba.jpg,https://www.linkedin.com/in/brookelyn-aven-393881290/,,,https://www.floridaclubrowing.com/
+218,Brooke,Aven,3/8/2025,2000m,None,Water,"2,156",3:20,98,,women's,novice,She,ba.jpg,https://www.linkedin.com/in/brookelyn-aven-393881290/,,,https://www.floridaclubrowing.com/
+219,Brooke,Aven,3/8/2025,2000m,None,Water,"1,955",2:12,54,,women's,novice,She,ba.jpg,https://www.linkedin.com/in/brookelyn-aven-393881290/,,,https://www.floridaclubrowing.com/
+220,Brooke,Aven,3/12/2025,2x15'; 10'; 5',22-28,Water,"11,702",2:39,,,women's,novice,She,ba.jpg,https://www.linkedin.com/in/brookelyn-aven-393881290/,,,https://www.floridaclubrowing.com/
+221,Brooke,Aven,3/13/2025,61',None,Water,"9,496",3:12,280,,women's,novice,She,ba.jpg,https://www.linkedin.com/in/brookelyn-aven-393881290/,,,https://www.floridaclubrowing.com/
+222,Tyla,Hall,1/15/2025,15'; 5x4',16-24,Water,"10,000",3:54,,,women's,varsity,She,th.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+223,Tyla,Hall,1/18/2025,3x10',26-28,Water,"10,900",3:41,,,women's,varsity,She,th.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+224,Tyla,Hall,1/20/2025,4x15',16-22,Water,"12,640",3:38,,,women's,varsity,She,th.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+225,Tyla,Hall,1/28/2025,3x19',16-22,Water,"11,600",3:15,,,women's,varsity,She,th.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+226,Tyla,Hall,1/29/2025,"2x15', 5x500m",20-30,Water,"6,240",4:04,,,women's,varsity,She,th.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+227,Tyla,Hall,2/1/2025,4x1000m,28,Water,"10,720",4:30,,,women's,varsity,She,th.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+228,Tyla,Hall,2/5/2025,2x4000m,20-22,Water,"12,190",3:20,,,women's,varsity,She,th.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+229,Tyla,Hall,2/6/2025,4x15',14-16,Water,"11,350",3:43,,,women's,varsity,She,th.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+230,Tyla,Hall,2/7/2025,3x2000m,16-22,Water,"9,670",3:36,,,women's,varsity,She,th.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+231,Tyla,Hall,2/13/2025,30',14-16,Water,"9,150",3:48,,,women's,varsity,She,th.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+232,Tyla,Hall,2/15/2025,3x1500m,28-30,Water,"10,100",4:03,,,women's,varsity,She,th.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+233,Tyla,Hall,2/17/2025,60',16-22,Water,"11,900",3:16,,,women's,varsity,She,th.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+234,Tyla,Hall,2/18/2025,2x20',16-20,Water,"13,000",3:13,,,women's,varsity,She,th.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+235,Tyla,Hall,2/20/2025,4x20',14-16,Water,"12,400",3:19,,,women's,varsity,She,th.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+236,Tyla,Hall,2/21/2025,2x15',None,Water,"8,350",4:03,,,women's,varsity,She,th.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+237,Tyla,Hall,2/22/2025,4x1500m,26-30,Water,"11,270",4:27,,,women's,varsity,She,th.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+238,Tyla,Hall,2/25/2025,3x20',16-20,Water,"11,260",3:26,,,women's,varsity,She,th.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+239,Tyla,Hall,2/26/2025,3x10',22-26,Water,"9,540",3:56,,,women's,varsity,She,th.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+240,Tyla,Hall,2/28/2025,2000m; 500m,30,Water,"5,230",4:43,,,women's,varsity,She,th.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+241,Tyla,Hall,3/1/2025,3x1500m,26-30,Water,"11,140",3:54,,,women's,varsity,She,th.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+242,Tyla,Hall,3/4/2025,3x20',14-16,Water,"11,500",3:10,,,women's,varsity,She,th.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+243,Tyla,Hall,3/5/2025,2x1000m; 500m,None,Water,"8,690",4:06,536,,women's,varsity,She,th.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+244,Tyla,Hall,3/6/2025,60',14-18,Water,12.09,3:15,,,women's,varsity,She,th.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+245,Tyla,Hall,3/8/2025,2x2000m,None,Water,"12,480",4:25,820,,women's,varsity,She,th.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+246,Tyla,Hall,3/11/2025,3x20',16-18,Water,"9,720",3:57,,,women's,varsity,She,th.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+247,Tyla,Hall,3/12/2025,3x15',22-28,Water,"12,500",3:23,,,women's,varsity,She,th.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+248,Tyla,Hall,3/13/2025,2x15',16-18,Water,"9,930",3:56,,,women's,varsity,She,th.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+249,Hunter,Phelan,1/15/2025,15'; 5x4',16-18; 18-24,Water,"7,673",3:20,,,men's,varsity,He,hp.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+250,Hunter,Phelan,1/16/2025,4x10',18-20,Water,"10,593",2:47,,,men's,varsity,He,hp.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+251,Hunter,Phelan,1/18/2025,3x10',28-30,Water,"13,064",2:34,,,men's,varsity,He,hp.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+252,Hunter,Phelan,1/20/2025,15',18-24,Water,"1,894",3:55,,,men's,varsity,He,hp.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+253,Hunter,Phelan,1/21/2025,5x10',16-18,Land,"12,722",01:57.9,,,men's,varsity,He,hp.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+254,Hunter,Phelan,2/6/2025,4x20',16-18,Water,"12,574",2:32,,,men's,varsity,He,hp.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+255,Hunter,Phelan,2/7/2025,5x2000m,18-24,Water,"9,913",2:42,,,men's,varsity,He,hp.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+256,Hunter,Phelan,2/10/2025,3x10',16-22,Water,"10,156",2:43,,,men's,varsity,He,hp.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+257,Hunter,Phelan,2/11/2025,2x20',16-18,Water,"11,888",2:30,,,men's,varsity,He,hp.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+258,Hunter,Phelan,2/12/2025,10x1000m,26-30,Water,"14,581",3:03,,,men's,varsity,He,hp.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+259,Hunter,Phelan,2/13/2025,49',None,Water,"6,652",3:40,284,,men's,varsity,He,hp.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+260,Hunter,Phelan,2/15/2025,3x1500m,30-32,Water,"11,141",3:09,,,men's,varsity,He,hp.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+261,Hunter,Phelan,2/17/2025,2x30',18-24,Water,"15,766",2:37,,,men's,varsity,He,hp.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+262,Hunter,Phelan,2/18/2025,60',None,Water,"10,705",2:48,351,,men's,varsity,He,hp.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+263,Hunter,Phelan,2/19/2025,25'; 3x500m,22-32,Water,"10,276",2:43,,,men's,varsity,He,hp.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+264,Hunter,Phelan,2/20/2025,4x20',16-18,Water,"8,257",3:11,,,men's,varsity,He,hp.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+265,Hunter,Phelan,2/21/2025,2x15',18-24,Water,"9,170",3:02,,,men's,varsity,He,hp.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+266,Hunter,Phelan,2/22/2025,4x1500m,28-32,Water,"11,073",3:07,,,men's,varsity,He,hp.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+267,Hunter,Phelan,2/25/2025,3x20',18-22,Water,"15,897",2:23,,,men's,varsity,He,hp.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+268,Hunter,Phelan,2/26/2025,3x10',24-28,Water,"13,330",2:54,,,men's,varsity,He,hp.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+269,Hunter,Phelan,2/27/2025,6x10',16-18,Water,"13,084",2:38,,,men's,varsity,He,hp.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+270,Hunter,Phelan,2/28/2025,"2000m, 500m",32,Water,"11,157",2:56,,,men's,varsity,He,hp.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+271,Hunter,Phelan,3/1/2025,3x1500m,28-32,Water,"11,883",2:47,,,men's,varsity,He,hp.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+272,Hunter,Phelan,3/4/2025,3x20',16-18,Water,"16,613",2:40,,,men's,varsity,He,hp.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+273,Hunter,Phelan,3/6/2025,60',16-18,Water,"14,988",2:18,,,men's,varsity,He,hp.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+274,Hunter,Phelan,3/8/2025,2x2000m,32-34,Water,"14,536",3:09,,,men's,varsity,He,hp.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+275,Hunter,Phelan,3/11/2025,3x5000m,18-20,Water,"14,185",2:47,,,men's,varsity,He,hp.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+276,Hunter,Phelan,3/12/2025,2x15',18-20,Water,"14,856",2:34,,,men's,varsity,He,hp.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+277,Hunter,Phelan,3/13/2025,2x15',18-20,Water,"11,484",2:38,,,men's,varsity,He,hp.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+278,Jackson,Rowden,1/22/2025,3x12',26,Land,None,None,644,151,men's,varsity,He,jr.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+279,Jackson,Rowden,1/25/2025,3x1500m,30-32,Land,None,None,256,132,men's,varsity,He,jr.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+280,Jackson,Rowden,1/27/2025,60',18-24,Land,"14,200",02:06.7,,,men's,varsity,He,jr.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+281,Jackson,Rowden,1/29/2025,2x20',24-28,Land,"9,765",02:02.8,,,men's,varsity,He,jr.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+282,Jackson,Rowden,1/29/2025,"1,400m",32,Land,"1,400",01:44.8,,,men's,varsity,He,jr.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+283,Jackson,Rowden,1/31/2025,2x20',16-22,Water,"6,540",2:47,,,men's,varsity,He,jr.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+284,Jackson,Rowden,1/31/2025,20',16-18,Land,"4,709",02:07.6,,,men's,varsity,He,jr.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+285,Jackson,Rowden,2/1/2025,5x1000m,30,Water,"8,010",2:26,,,men's,varsity,He,jr.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+286,Jackson,Rowden,2/3/2025,3x10',20-22,Water,"7,110",2:38,,,men's,varsity,He,jr.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+287,Jackson,Rowden,2/5/2025,3x4000m,22-26,Water,"12,767",2:10,,,men's,varsity,He,jr.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+288,Jackson,Rowden,2/12/2025,15x4',26-30,Water,"11,069",2:04,,,men's,varsity,He,jr.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+289,Jackson,Rowden,2/13/2025,30',16-18,Land,"7,270",02:03.7,,,men's,varsity,He,jr.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+290,Jackson,Rowden,2/14/2025,20',22,Land,"5,150",01:56.5,,,men's,varsity,He,jr.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+291,Jackson,Rowden,2/19/2025,3x500m,30-32,Water,"1,684",2:07,,,men's,varsity,He,jr.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+292,Jackson,Rowden,2/21/2025,2x15',18-24,Water,"7,138",2:39,,,men's,varsity,He,jr.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+293,Jackson,Rowden,2/22/2025,4x1500m,28-32,Water,"10,267",2:18,,,men's,varsity,He,jr.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+294,Jackson,Rowden,2/24/2025,3x19',22,Land,"13,685",02:04.9,,,men's,varsity,He,jr.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+295,Jackson,Rowden,2/26/2025,6x10',16-18,Water,"8,843",2:27,,,men's,varsity,He,jr.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+296,Jackson,Rowden,2/28/2025,4x10',None,Water,"9,365",2:24,495,,men's,varsity,He,jr.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+297,Jackson,Rowden,3/1/2025,3x1500m,28-32,Water,"7,453",2:43,,,men's,varsity,He,jr.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+298,Jackson,Rowden,3/3/2025,2x25',14-18,Water,"12,527",2:09,,,men's,varsity,He,jr.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+299,Jackson,Rowden,3/5/2025,3x1000m; 500m,28-32,Land,"4,500",01:52.8,,,men's,varsity,He,jr.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+300,Jackson,Rowden,3/5/2025,5',None,Water,"1,155",2:14,73,,men's,varsity,He,jr.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+301,Jackson,Rowden,3/6/2025,60',16-18,Water,"14,292",2:10,,,men's,varsity,He,jr.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+302,Jackson,Rowden,3/7/2025,2x10',20-22,Land,"5,088",01:57.9,,,men's,varsity,He,jr.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+303,Jackson,Rowden,3/8/2025,2x2000m,32-34,Water,"1,941",1:52,,,men's,varsity,He,jr.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+304,Jackson,Rowden,3/10/2025,2x15',16-22,Land,None,None,491,153,men's,varsity,He,jr.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+305,Jackson,Rowden,3/11/2025,60',18,Land,"14,026",02:08.2,,,men's,varsity,He,jr.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+306,Jackson,Rowden,3/12/2025,3x15',18-20,Water,"13,426",2:07,,,men's,varsity,He,jr.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+307,Lucas,Greenwood,1/14/2025,30' erg test,22,Water,None,None,314,120,men's,novice,He,lg.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+308,Lucas ,Greenwood,1/16/2025,4x10',16-18,Water,"9,061",None,266,,men's,novice,He,lg.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+309,Lucas,Greenwood,1/18/2025,3x10',26-28,Water,None,None,989,140,men's,novice,He,lg.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+310,Lucas,Greenwood,1/21/2025,5x10',18,Land,None,None,470,155,men's,novice,He,lg.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+311,Lucas,Greenwood,1/22/2025,3x12',26,Land,None,None ,696,159,men's,novice,He,lg.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+312,Lucas,Greenwood,1/23/2025,3x20',16,Land,None,None,691,137,men's,novice,He,lg.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+313,Lucas,Greenwood,1/25/2025,3x1500m,32,Land,None,None,469,144,men's,novice,He,lg.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+314,Lucas,Greenwood,1/30/2025,50',18,Land,None,None,399,132,men's,novice,He,lg.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+315,Lucas,Greenwood,2/8/2025,4x1000m,32,Land,None,None,245,154,men's,novice,He,lg.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+316,Lucas,Greenwood,2/13/2025,30',18,Water,"3,933",3:01,,,men's,novice,He,lg.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+317,Lucas,Greenwood,2/15/2025,3x1500m,30-32,Water,"10,170",2:58,,,men's,novice,He,lg.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+318,Lucas,Greenwood,2/16/2025,34',None,Land,None,None,404,149,men's,novice,He,lg.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+319,Lucas,Greenwood,2/18/2025,2x20',18-20,Water,"10,316",None,690,,men's,novice,He,lg.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+320,Lucas,Greenwood,2/22/2025,4x1500m,28-32,Water,"7,854",None,543,,men's,novice,He,lg.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+321,Lucas,Greenwood,2/25/2025,2x15',18-22,Land,"7,358",02:02.3,,,men's,novice,He,lg.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+322,Lucas,Greenwood,2/27/2025,6x10',16-18,Water,"15,260",3:34,,,men's,novice,He,lg.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+323,Lucas,Greenwood,2/28/2025,3x15',None,Water,"11,729",3:11,574,,men's,novice,He,lg.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+324,Lucas,Greenwood,3/4/2025,3x20',16-18,Water,"14,854",None,875,,men's,novice,He,lg.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+325,Lucas,Greenwood,3/7/2025,2x10',20-22,Land,None,None,192,127,men's,novice,He,lg.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+326,Lucas,Greenwood,3/8/2025,2x2000m,32-34,Water,"6,778",3:43,,,men's,novice,He,lg.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+327,Lucas,Greenwood,3/9/2025,4x500m,22-28,Land,"2,000",01:53.4,,,men's,novice,He,lg.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+328,Lucas,Greenwood,3/10/2025,16',14-22,Land,"3,676",02:11.1,,,men's,novice,He,lg.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+329,Lucas,Greenwood,3/10/2025,2000m,28,Land,2000,01:50.6,,,men's,novice,He,lg.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+330,Lucas,Greenwood,3/11/2025,3x5000m,18-20,Water,"12,989",2:52,,,men's,novice,He,lg.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+331,Lucas,Greenwood,3/12/2025,3x15',18-20,Water,"13,490",2:43,,,men's,novice,He,lg.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+332,Lucas,Greenwood,3/13/2025,2x15',18-20,Water,"11,415",2:39,,,men's,novice,He,lg.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+333,Evan,Espino,1/14/2025,30' erg test,22,Land,None,None,604,,men's,novice,He,ee.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+334,Evan,Espino,1/15/2025,15'; 5x4',16-18; 18-24,Water,"2,008",2:29,,,men's,novice,He,ee.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+335,Evan,Espino,1/17/2025,"2x15'; :30s on, :30s off",30,Water,"3,077",2:21,,,men's,novice,He,ee.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+336,Evan,Espino,1/20/2025,4x15',16-22,Water,"9,824",02:28.6,,,men's,novice,He,ee.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+337,Evan,Espino,1/23/2025,3x20',16,Land,None,None,"1,113",,men's,novice,He,ee.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+338,Evan,Espino,1/24/2025,20',16-20,Land,None,None,472,,men's,novice,He,ee.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+339,Evan,Espino,1/27/2025,60',18-24,Water,"7,674",2:41,,,men's,novice,He,ee.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+340,Evan,Espino,1/30/2025,50',18-20,Land,"11,349",02:12.1,,,men's,novice,He,ee.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+341,Evan,Espino,1/30/2025,25',18-22,Land,"6,300",01:59.0,,,men's,novice,He,ee.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+342,Evan,Espino,1/31/2025,2x20',16-22,Water,"5,990",2:43,,,men's,novice,He,ee.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+343,Evan,Espino,2/1/2025,5x1000m,30,Water,"3,803",2:44,,,men's,novice,He,ee.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+344,Evan,Espino,2/4/2025,60',18-24,Water,"7,365",2:35,,,men's,novice,He,ee.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+345,Evan,Espino,2/25/2025,20',18-22,Land,None,None,393,,men's,novice,He,ee.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+346,Evan,Espino,2/26/2025,3x10',24-28,Water,"2,397",2:08,,,men's,novice,He,ee.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+347,Evan,Espino,2/28/2025,4x10',24-32,Water,"7,317",2:19,,,men's,novice,He,ee.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+348,Evan,Espino,3/1/2025,3x1500m,28-30,Water,"6,834",2:37,,,men's,novice,He,ee.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+349,Evan,Espino,3/4/2025,3x20',16-18,Water,"11,778",2:25,,,men's,novice,He,ee.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+350,Evan,Espino,3/6/2025,60',16-18,Water,"13,245",2:11,,,men's,novice,He,ee.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+351,Evan,Espino,3/7/2025,2x10',20-22,Land,"5,189",01:55.6,,,men's,novice,He,ee.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+352,Evan,Espino,3/8/2025,2x2000m,32,Water,"2,797",3:35,,,men's,novice,He,ee.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+353,Evan,Espino,3/10/2025,2x20',20-22,Land,None,None,789,,men's,novice,He,ee.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+354,Evan,Espino,3/11/2025,3x5000m,18,Water,"9,813",2:45,,,men's,novice,He,ee.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+355,Evan,Espino,3/12/2025,3x15',18-20,Water,"11,775",2:42,,,men's,novice,He,ee.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+356,Evan,Espino,3/13/2025,2x15',18-20,Water,"9,278",2:25,,,men's,novice,He,ee.jpg,https://lindsey23240.wixsite.com/lindseyfiedlerphotos,,,https://www.floridaclubrowing.com/
+357,Robert,Morris,2/3/2025,3x10',20-22,Water,"7,786",3:13,,,men's,varsity,He,rm.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+358,Robert,Morris,2/4/2025,24',18-22,Water,"3,252",3:44,,,men's,varsity,He,rm.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+359,Robert,Morris,2/4/2025,10',20,Land,None,None,152,,men's,varsity,He,rm.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+360,Robert,Morris,2/5/2025,3x4000m,22-26,Water,"13,640",2:42,,,men's,varsity,He,rm.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+361,Robert,Morris,2/6/2025,4x20',16-18,Water,"11,967",2:39,,,men's,varsity,He,rm.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+362,Robert,Morris,3/7/2025,5x2000m,18-24,Water,"9,454",3:00,,,men's,varsity,He,rm.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+363,Robert,Morris,2/8/2025,2x1000m,28-32,Land,None,None,154,,men's,varsity,He,rm.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+364,Robert,Morris,2/11/2025,2x20',16-18,Water,"11,832",2:44,,,men's,varsity,He,rm.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+365,Robert,Morris,2/12/2025,15x4',26-30,Water,"13,510",3:06,,,men's,varsity,He,rm.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+366,Robert,Morris,2/13/2025,30',18,Land,None,None,445,,men's,varsity,He,rm.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+367,Robert,Morris,2/14/2025,20',22,Land,None,None,222,,men's,varsity,He,rm.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+368,Robert,Morris,2/15/2025,3x1500m,30-32,Water,"9,522",3:05,,,men's,varsity,He,rm.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+369,Robert,Morris,2/17/2025,2x30',18-24,Water,"8,754",4:04,,,men's,varsity,He,rm.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+370,Robert,Morris,2/18/2025,2x20',18-20,Water,"8,930",2:38,,,men's,varsity,He,rm.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+371,Robert,Morris,2/19/2025,25'; 3x500m,22-32,Water,"11,688",2:39,,,men's,varsity,He,rm.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+372,Robert,Morris,2/20/2025,3x20',18-20,Land,"13,576",02:12.5,,,men's,varsity,He,rm.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+373,Robert,Morris,2/21/2025,2x15',18-24,Water,"8,489",2:59,,,men's,varsity,He,rm.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+374,Robert,Morris,2/22/2025,4x1500m,28-32,Water,"13,005",3:25,,,men's,varsity,He,rm.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+375,Robert,Morris,2/24/2025,19',22,Land,None,None,296,,men's,varsity,He,rm.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+376,Robert,Morris,2/25/2025,3x20',18-22,Water,"15,678",2:15,,,men's,varsity,He,rm.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+377,Robert,Morris,2/28/2025,"2000m, 500m",32,Water,"10,964",2:51,,,men's,varsity,He,rm.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+378,Robert,Morris,3/1/2025,3x1500m,18-20,Water,"9,509",3:17,,,men's,varsity,He,rm.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+379,Lindsey,Fiedler,1/28/2025,3x19',16-22,Water,None,None,777,150,women's,varsity,She,lf.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+380,Lindsey,Fiedler,1/31/2025,3x20',16-22,Water,None,None,575,147,women's,varsity,She,lf.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+381,Lindsey,Fiedler,2/1/2025,4x1000m,28,Water,None,None,682,138,women's,varsity,She,lf.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+382,Lindsey,Fiedler,2/4/2025,2x10',16-18,Land,None,None,196,173,women's,varsity,She,lf.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+383,Lindsey,Fiedler,2/7/2025,3x2000m,16-22,Water,None,None,854,143,women's,varsity,She,lf.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+384,Lindsey,Fiedler,2/8/2025,4x1000m,30,Land,None,None,661,137,women's,varsity,She,lf.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+385,Lindsey,Fiedler,2/10/2025,3x10',18-20,Land,None,None,413,145,women's,varsity,She,lf.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+386,Lindsey,Fiedler,2/11/2025,2x20',16-18,Land,None,None,392,139,women's,varsity,She,lf.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+387,Lindsey,Fiedler,2/13/2025,30',14-16,Water,None,None,561,142,women's,varsity,She,lf.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+388,Lindsey,Fiedler,2/15/2025,3x1500m,28-30,Water,None,None,672,142,women's,varsity,She,lf.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+389,Lindsey,Fiedler,2/17/2025,3x20',16-22,Land,None,None,657,132,women's,varsity,She,lf.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+390,Lindsey,Fiedler,2/19/2025,25'; 3x500m,22-30,Land,None,None,507,156,women's,varsity,She,lf.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+391,Lindsey,Fiedler,2/20/2025,3x20',14-18,Water,None,None,663,122,women's,varsity,She,lf.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+392,Lindsey,Fiedler,2/22/2025,4x1500m,26-30,Water,None,None,788,118,women's,varsity,She,lf.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+393,Lindsey,Fiedler,2/26/2025,3x10',22-26,Water,None,None,631,125,women's,varsity,She,lf.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+394,Lindsey,Fiedler,2/28/2025,2000m; 500m,30,Water,None,None,572,101,women's,varsity,She,lf.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+395,Lindsey,Fiedler,3/1/2025,3x1500m,26-30,Water,None,None,692,120,women's,varsity,She,lf.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+396,Lindsey,Fiedler,3/3/2025,2x25',14-18,Water,None,None,497,118,women's,varsity,She,lf.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+397,Lindsey,Fiedler,3/5/2025,2x1000m; 500m,None,Water,None,None,631,114,women's,varsity,She,lf.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+398,Lindsey,Fiedler,3/7/2025,2x10',20-22,Land,None,None,284,149,women's,varsity,She,lf.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+399,Lindsey,Fiedler,3/8/2025,2x2000m,None,Water,None,None,524,120,women's,varsity,She,lf.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
+400,Lindsey,Fiedler,3/11/2025,3x20',16-18,Water,None,None,558,112,women's,varsity,She,lf.jpg,https://www.aulisiogalleries.com/,,,https://www.floridaclubrowing.com/
