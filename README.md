@@ -31,16 +31,16 @@ The front end of the application is styled with fully responsive CSS, including 
 The original goal was to include data for 20 rowers. However, the final dataset includes only 12 athletes due to data availability and logging inconsistencies. Some rowers only recorded water workouts, while others had irregular attendance, which impacted the consistency and completeness of the data.
 
 ### SQLite Learning Curve
-This was my first experience using SQLite. I had to learn how to structure a relational database, run SQL queries, and integrate the database with a Flask application using SQLAlchemy.
+This was my first experience using SQLite. I had to learn how to structure a relational database, run SQL queries, and merge the database with a Flask application using SQLAlchemy.
 
 ### Dynamic Routing in Flask
-I developed a more advanced route structure to dynamically handle URLs based on each rower's name. I also implemented error handling to manage cases where URLs were missing or improperly formatted.
+I developed a more advanced route structure to dynamically handle URLs based on each rower's name. I also included error handling to manage cases where URLs were missing or improperly formatted.
 
 ### CSS Responsiveness
 The CSS styling was revised and adjusted frequently to ensure that the design remained consistent across different screen sizes. Media queries were specifically refined to improve the layout and readability on small devices like iPhones.
 
 ## File Outputs
-The `rowing-database.db` file contains all of the structured workout data used in the application. The `requirements.txt` file lists all the Python dependencies needed to run the project, including Flask and SQLAlchemy. All HTML templates and static files (CSS, images) are organized into separate folders for easy maintenance and deployment.
+The `rowing-database.db` file contains all of the structured workout data used in the application. The `requirements.txt` file lists all the Python libraries and modules needed to run the project, including Flask and SQLAlchemy. All HTML templates and static files (CSS, images) are organized into separate folders.
 
 ## Final Notes
 This project was developed as a final project for JOU4364: Advanced Web Apps with Professor McAdams. 
